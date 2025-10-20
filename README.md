@@ -91,12 +91,9 @@ Protect High Performers: Cross-reference the 492 attritions with the 413 High-Pe
 | Excel       | Dashboard development & charts |
 | Power Query | Data cleaning & transformation ||
 
----
 
-##  Files Included
 
-- `HR_Attrition_Dashboard.xlsx` – Full interactive Excel dashboard
-- `https://github.com/Shaadink/Hr-Attrition-Analysis-excel-dashboard-/blob/main/Hr%20attrition%20analysis%20dashboard.png` – Preview of the dashboard UI
+
 
 
 
