@@ -62,13 +62,25 @@ The dataset includes detailed employee-level information:
 
 ##  Key Dashboard Insights
 
-- **Most attrition** occurs among:
-  - Laboratory Technicians and Sales Executives
-  - Employees with a Bachelor’s degree
-  - Age group 26–35
-- **Business travel** and **distance from home** significantly impact attrition
-- Female employees have a **higher attrition rate (37%)**
-- The **Sales** department shows the highest turnover
+High Attrition Rate: The company has an overall 17% attrition rate (492 employees).
+
+Male Dominance: Male attrition (63%) is nearly double that of female attrition (37%).
+
+Age Risk: The 26-35 age group has the highest number of departures.
+
+Key Roles at Risk: Laboratory Technicians, Sales Executives, and Research Scientists are the top three roles losing employees.
+
+Near-by Paradox: Employees who live Near-by (296) have the highest attrition, which is counter-intuitive and needs investigation.
+
+Travel Correlation: Employees who Travel Rarely (325) or Travel Frequently (141) account for the vast majority of attrition.
+
+ ## Top Recommendations
+ 
+Target High-Risk Roles & Demographics: Launch immediate stay interviews for the top four high-attrition roles. Focus on understanding compensation, workload, and career path concerns for male employees aged 26-35.
+
+Investigate Proximity and Travel: Determine why employees living Near-by are leaving (e.g., perceived availability, uncompensated overtime). Review and improve policies for both frequent and rare travelers.
+
+Protect High Performers: Cross-reference the 492 attritions with the 413 High-Performance employees. Implement a robust retention and compensation review for top talent to prevent a significant loss of company value.
 
 ---
 
