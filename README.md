@@ -56,7 +56,7 @@ The dataset includes detailed employee-level information:
 
 ##  HR Attrition Dashboard
 
-![HR Attrition Dashboard](./ec518968-b48b-4414-8145-4d9b6d7c5a9e.png)
+![https://github.com/Shaadink/Hr-Attrition-Analysis-excel-dashboard-/blob/main/Hr%20attrition%20analysis%20dashboard.png)
 
 ---
 
@@ -84,7 +84,7 @@ The dataset includes detailed employee-level information:
 ##  Files Included
 
 - `HR_Attrition_Dashboard.xlsx` – Full interactive Excel dashboard
-- `dashboard_image.png` – Preview of the dashboard UI
+- `https://github.com/Shaadink/Hr-Attrition-Analysis-excel-dashboard-/blob/main/Hr%20attrition%20analysis%20dashboard.png` – Preview of the dashboard UI
 
 
 
