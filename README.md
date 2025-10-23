@@ -1,5 +1,5 @@
 #  HR Attrition Analysis
-![Dashboard view]("https://github.com/Shaadink/Hr-Attrition-Analysis-excel-dashboard-/blob/main/HR%20attrition%20imagr.png")
+-![Dashboard view]("https://github.com/Shaadink/Hr-Attrition-Analysis-excel-dashboard-/blob/main/HR%20attrition%20imagr.png")
 
 ##  Overview
 
