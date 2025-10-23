@@ -1,5 +1,5 @@
 #  HR Attrition Analysis
-![Dashboard view]("")
+![Dashboard view]("https://github.com/Shaadink/Hr-Attrition-Analysis-excel-dashboard-")
 
 ##  Overview
 
