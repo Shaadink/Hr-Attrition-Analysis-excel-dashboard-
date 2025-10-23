@@ -1,4 +1,5 @@
 #  HR Attrition Analysis
+![Dashboard view]("")
 
 ##  Overview
 
